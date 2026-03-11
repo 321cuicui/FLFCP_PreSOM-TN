@@ -1,2 +1,2 @@
 # FLFCP_PreSOM-TN
-Store data and code.
+The code and raw data supporting this study will be made publicly available upon acceptance of the paper.
